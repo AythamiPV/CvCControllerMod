@@ -1,0 +1,11 @@
+[
+{
+  "modid": "cvccontrollermod",
+  "name": "CvC Controller Mod",
+  "description": "Remaps controls for CvC minigame weapons. Left Click shoots, R reloads, Right Click aims (scoped/sniper).",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": [],
+  "dependencies": []
+}
+]
