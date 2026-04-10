@@ -101,7 +101,7 @@ CvCControllerMod/
 
 ## ⬇️ Download
 
-[![Download](https://github.com/AythamiPV/CvCControllerMod/releases/download/v1.0.0/cvccontrollermod-1.0.0.jar)
+[![Download](https://img.shields.io/badge/⬇️_Download-v1.0.0-2ea44f?style=for-the-badge&logo=github)](https://github.com/AythamiPV/CvCControllerMod/releases/download/v1.0.0/cvccontrollermod-1.0.0.jar)
 
 Or go to the [Releases page](https://github.com/AythamiPV/CvCControllerMod/releases/latest).
 
